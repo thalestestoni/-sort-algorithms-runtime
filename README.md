@@ -1,1 +1,1 @@
-<h1> How to compile in linux with gcc: </h1>
+<h2> How to compile in linux with gcc: </h2>
